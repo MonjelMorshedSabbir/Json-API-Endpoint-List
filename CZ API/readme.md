@@ -27,4 +27,5 @@ for example: `API-1.0.1 {api-1.0.2 -> api-1.0.3}` => `API-2.0.1 {api-2.0.2 -> ap
 ```Now Latest API is listed serially in the ascending format```
 > api-1.0.1 == _First API with random design_ => Paused from release
 
-> api-2.0.1 == _Modified category item views, simplified the look_ => running in the release
+> api-2.0.1 == _Modified category item views, simplified the look_ => Packed up
+> api-2.0.2 == _Modified category item views, simplified the look_ => running in the release
