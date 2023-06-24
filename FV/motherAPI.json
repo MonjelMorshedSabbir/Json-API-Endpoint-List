@@ -1,0 +1,27 @@
+[
+    {
+    "typeName": "Funny Videos",
+    "typeLogoUrl": "https://media.discordapp.net/attachments/1121841083807178924/1122077546067021834/moment.png",
+    "typeCatUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/funnyvideoCats.json"
+    },
+    {
+    "typeName": "Music Club",
+    "typeLogoUrl": "https://media.discordapp.net/attachments/1121841083807178924/1122090202551308358/music.png",
+    "typeCatUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/musicCats.json"
+    },
+    {
+    "typeName": "Movie Hall",
+    "typeLogoUrl": "https://media.discordapp.net/attachments/1121841083807178924/1122070347349504080/c.png",
+    "typeCatUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/movieCats.json"
+    },
+    {
+    "typeName": "Drama City",
+    "typeLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109898452093116477/drama.png",
+    "typeCatUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/dramaCats.json"
+    },
+    {
+    "typeName": "Prank Kings",
+    "typeLogoUrl": "https://media.discordapp.net/attachments/1121841083807178924/1122090202865872946/prank.png",
+    "typeCatUrl": ""
+    }
+    ]
