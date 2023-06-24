@@ -1,0 +1,17 @@
+[
+    {
+        "catName": "Mixed Drama",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122063540983955528/dramacat.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Drama/mixeddrama.json"
+    },
+    {
+        "catName": "Bangla Natok",
+        "catLogoUrl": "",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Series Natok",
+        "catLogoUrl": "",
+        "catItemUrl": ""
+    }
+]
