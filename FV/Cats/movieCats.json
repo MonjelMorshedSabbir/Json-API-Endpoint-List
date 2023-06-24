@@ -1,0 +1,52 @@
+[
+    {
+        "catName": "Action",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1118467629917679646/movie2.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Movie/action.json"
+    },
+    {
+        "catName": "Bangla",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122072677885157457/bangla.png",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Bhojpuri",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1118472384563925062/movie3.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Movie/bhojpuri.json"
+    },
+    {
+        "catName": "Chinese",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070345508208660/china.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Movie/chinese.json"
+    },
+    {
+        "catName": "HollyWood",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1118472980415131688/movie4.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Movie/hollywood.json"
+    },
+    {
+        "catName": "Korean",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070345805996143/korean.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Movie/korean.json"
+    },
+    {
+        "catName": "Malayalam",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070346103795722/a.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Movie/malayalam.json"
+    },
+    {
+        "catName": "Panjabi",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070346435149905/b.webp",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Movie/panjabi.json"
+    },
+    {
+        "catName": "South",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122073894640173056/b.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Movie/south.json"
+    },
+    {
+        "catName": "Tamil",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070347349504080/c.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Movie/tamil.json"
+    }
+]

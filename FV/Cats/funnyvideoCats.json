@@ -1,0 +1,32 @@
+[
+    {
+        "catName": "Mixed Fun",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122077546067021834/moment.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/FunnyVideo/mixfun.json"
+    },
+    {
+        "catName": "Funny Dance",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122077547023315014/dance.png",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Funny Cat",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122077547333685249/cat.webp",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Funny Dog",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122077547845406731/dog.png",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Funny Driving",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122077546603892818/driving.webp",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Funny Moment",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122077546314477609/drive.png",
+        "catItemUrl": ""
+    }
+]

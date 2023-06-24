@@ -1,0 +1,77 @@
+[
+    {
+        "catName": "Latest",
+        "catLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1109559960259530762/headphones-clipart-design-illustartion-free-png.webp",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Music/latest.json"
+    },
+    {
+        "catName": "Lofi",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109902972898529412/lofi2.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Music/lofi.json"
+    },
+    {
+        "catName": "Arabic",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950308880444/music5.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Music/arabic.json"
+    },
+    {
+        "catName": "Bangla",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950044647665/music4.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Music/bangla.json"
+    },
+    {
+        "catName": "English",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558957325951027/music2.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Music/english.json"
+    },
+    {
+        "catName": "Hindi",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950816383127/music8.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Music/hindi.json"
+    },
+    {
+        "catName": "HipHop",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558951156129873/music10.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Music/hiphop.json"
+    },
+    {
+        "catName": "Mix",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950552158239/music7.png",
+        "catItemUrl": "https://monjelmorshedsabbir.github.io/Json-API-Endpoint-List/FV/Cats/Music/mix.json"
+    },
+    {
+        "catName": "Pop",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083420068134922/pop.png",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Rock",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083419640307742/rock.png",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "R&B",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083419275411466/rnb.webp",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Country",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083418994384988/country.png",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Jazz",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083418709176370/jazz.png",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "EDM",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083418444939275/edm.png",
+        "catItemUrl": ""
+    },
+    {
+        "catName": "Latin",
+        "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083418180689920/latin.png",
+        "catItemUrl": ""
+    }
+]
