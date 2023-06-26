@@ -1,6 +1,580 @@
 {"All":
 [
   {
+    "title":"EID Mubarak",
+    "titleHex":"fafafa",
+    "iconUrl":"",
+    "bgHex":"584993",
+    "bgImgUrl":"https://cdn.discordapp.com/attachments/1053041868432224266/1122839602730913832/EidMubarak.webp",
+    "lottieUrl":"",
+    "list":[
+      {
+          "Text": "Eid Mubarak!",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating EID with loved ones.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with joy and blessings.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a peaceful and blessed EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID festivities in full swing!",
+          "Author": "null"
+      },
+      {
+          "Text": "Sending warm EID wishes to all.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID Mubarak to you and your family.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the spirit of EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "Capturing beautiful memories this EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID vibes only.",
+          "Author": "null"
+      },
+      {
+          "Text": "Cherishing the moments of togetherness this EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID blessings and happiness all around.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with love and laughter.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID celebrations with friends and family.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a delightful EID filled with sweet moments.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID festivities in full bloom.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID Mubarak! May this day bring peace and prosperity.",
+          "Author": "null"
+      },
+      {
+          "Text": "Enjoying the festive vibes of EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "Sending warm wishes on this auspicious occasion.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID blessings shining bright.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID moments that will be cherished forever.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating the joy of EID with loved ones.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be as beautiful as you are.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID happiness captured in a photo.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a blessed EID surrounded by loved ones.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID memories that will last a lifetime.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID Mubarak! May your day be filled with love and happiness.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the traditions of EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID vibes and happy times.",
+          "Author": "null"
+      },
+      {
+          "Text": "Capturing the essence of EID in every frame.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a joyous and prosperous EID celebration.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID moments worth sharing.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID blessings pouring in.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating EID with gratitude and love.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID happiness captured in a snapshot.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a memorable and blessed EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID memories that will be treasured forever.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the spirit of EID with open hearts.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID festivities in full swing.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with laughter and joy.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID celebrations with smiles all around.",
+          "Author": "null"
+      },
+      {
+          "Text": "Sending heartfelt EID wishes to everyone.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID Mubarak! May this day be the start of new beginnings.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating the joy of EID with gratitude.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID vibes and happiness in the air.",
+          "Author": "null"
+      },
+      {
+          "Text": "Capturing the beauty of EID in every click.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a blessed and memorable EID celebration.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID moments filled with love and blessings.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID festivities and fun.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating EID with joy and gratitude.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with peace and happiness.",
+          "Author": "null"
+      },
+      {
+          "Text": "Sending warm EID greetings to all.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the spirit of EID with open arms.",
+          "Author": "null"
+      },
+      {
+          "Text": "Capturing the magic of EID in every shot.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID blessings for a prosperous year ahead.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a blessed and joyous EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID celebrations with laughter and love.",
+          "Author": "null"
+      },
+      {
+          "Text": "Enjoying the festive vibes of EID with friends.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID moments that light up our hearts.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating EID in style.",
+          "Author": "null"
+      },
+      {
+          "Text": "May this EID bring you peace and contentment.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID blessings showering upon us.",
+          "Author": "null"
+      },
+      {
+          "Text": "Cherishing the moments of EID with loved ones.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID joy captured in every frame.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a memorable and blessed EID celebration.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID vibes and happiness in abundance.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID celebrations with cherished traditions.",
+          "Author": "null"
+      },
+      {
+          "Text": "Sending heartfelt EID wishes to everyone around the world.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID Mubarak! May your day be filled with blessings and love.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the true essence of EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID moments that leave a lasting impression.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating the beauty of EID with gratitude.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with moments of pure joy.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID celebrations with smiles and laughter.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a prosperous and peaceful EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID memories that warm the heart.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the joyous spirit of EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID vibes and blessings all around.",
+          "Author": "null"
+      },
+      {
+          "Text": "Capturing the happiness of EID in every click.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a delightful and memorable EID celebration.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID moments that create everlasting memories.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID Mubarak! May your day be filled with love and laughter.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating the joy of EID with family and friends.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be blessed with abundance and prosperity.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID festivities and joyous moments.",
+          "Author": "null"
+      },
+      {
+          "Text": "Capturing the essence of EID in each photograph.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a blissful and magical EID celebration.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID memories that bring happiness to the soul.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the blessings of EID with gratitude.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID vibes and happy memories.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating EID with love and togetherness.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with countless blessings.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID celebrations with happiness and harmony.",
+          "Author": "null"
+      },
+      {
+          "Text": "Sending warm EID wishes from afar.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID blessings for a joyful celebration.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a blissful and serene EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the traditions of EID with love.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID moments that fill the heart with happiness.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating the beauty of EID with gratitude.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with laughter and love.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID festivities and cherished memories.",
+          "Author": "null"
+      },
+      {
+          "Text": "Capturing the joy of EID in every snapshot.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a prosperous and blessed EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID celebrations with family and friends.",
+          "Author": "null"
+      },
+      {
+          "Text": "Sending warm wishes on this auspicious occasion.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID Mubarak! May your day be filled with joy.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the spirit of EID with open hearts.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID vibes and happy moments.",
+          "Author": "null"
+      },
+      {
+          "Text": "Cherishing the blessings of EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID happiness captured in a photo.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a memorable and joyous EID celebration.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID memories that warm the soul.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating the joy of EID with loved ones.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with peace and prosperity.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID celebrations with laughter and smiles.",
+          "Author": "null"
+      },
+      {
+          "Text": "Enjoying the festive vibes of EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID Mubarak! May this day bring blessings.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the traditions of EID with joy.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID moments worth capturing.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a delightful and blessed EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID festivities and happiness all around.",
+          "Author": "null"
+      },
+      {
+          "Text": "Capturing the magic of EID in every frame.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID blessings for a prosperous future.",
+          "Author": "null"
+      },
+      {
+          "Text": "Celebrating the joy of EID with gratitude.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with love and laughter.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID celebrations with cherished moments.",
+          "Author": "null"
+      },
+      {
+          "Text": "Sending warm EID greetings to all.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID Mubarak! Enjoy the festivities.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the spirit of EID with open arms.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID vibes and happiness in the air.",
+          "Author": "null"
+      },
+      {
+          "Text": "Capturing the essence of EID in every click.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a blessed and memorable EID celebration.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID moments that leave a lasting impression.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID blessings showering upon us.",
+          "Author": "null"
+      },
+      {
+          "Text": "Cherishing the moments of EID with loved ones.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID joy captured in every frame.",
+          "Author": "null"
+      },
+      {
+          "Text": "Wishing you a memorable and blessed EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID memories that warm the heart.",
+          "Author": "null"
+      },
+      {
+          "Text": "Embracing the joyous spirit of EID.",
+          "Author": "null"
+      },
+      {
+          "Text": "EID festivities in full swing.",
+          "Author": "null"
+      },
+      {
+          "Text": "May your EID be filled with laughter and joy.",
+          "Author": "null"
+      }
+    ]
+  },
+  {
     "title":"Alone",
     "titleHex":"fafafa",
     "iconUrl":"https://media.discordapp.net/attachments/1053041868432224266/1116316666238861393/alone.png",
